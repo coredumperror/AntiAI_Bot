@@ -1,0 +1,5 @@
+.vscode
+.venv
+.env
+bot-token.txt
+*.log*

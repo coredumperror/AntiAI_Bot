@@ -1,0 +1,2 @@
+Invite URL:
+https://discord.com/oauth2/authorize?client_id=1374973550921908244&permissions=292057852928&integration_type=0&scope=bot
