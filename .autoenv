@@ -1,0 +1,4 @@
+if [ -f .venv/bin/activate ]; then
+    echo "Activating AntiAI_Bot venv"
+    source .venv/bin/activate
+fi

@@ -1,0 +1,4 @@
+if [[ ! $(pwd) == *"AntiAI_Bot"* ]]; then
+    echo "Deactivating AntiAI_Bot venv"
+    deactivate
+fi
