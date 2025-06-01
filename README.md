@@ -14,6 +14,9 @@ it never sends its followup message with the results.
 ### To invite the bot to your server, visit this URL:
 https://discord.com/oauth2/authorize?client_id=1374973550921908244&permissions=292057852928&integration_type=0&scope=bot
 
+Once it's installed on your server, you can confirm that it's running by typing `!Anti-AI`. If it successfully replies
+to your message, it will be primed to automatically delete messages from the Discord AI apps.
+
 
 ## How to run this bot yourself
 
